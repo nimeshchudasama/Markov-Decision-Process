@@ -1,0 +1,6 @@
+gym
+numpy
+matplotlib
+time
+re
+mdptoolbox-hiive
